@@ -1,10 +1,9 @@
 package com.pearson.basics;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
-public class UtilityClass {
+
+public class GCD {
 	
 	int euclideanGCD(int a, int b) {
 		if(a < b) {
